@@ -32,7 +32,12 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
----
+---<!-- 🌐 Languages -->
+<img src="https://img.shields.io/badge/8086%20Assembly-6E4C13?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ## 📊 GitHub Stats
 
