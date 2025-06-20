@@ -18,7 +18,7 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 
 <div align="center">
 
-<h1>🧰 Tech Stack</h1>
+<h1>🧰 Tech Stack</h1>   
 
 <!-- 🌐 Languages -->
 <img src="https://img.shields.io/badge/8086%20Assembly-6E4C13?style=for-the-badge&logoColor=white"/>
@@ -27,9 +27,11 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 
 <!-- 🎨 Frontend -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
 
@@ -39,6 +41,7 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 
 <!-- 🧩 Extra -->
 <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFML-74C365?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <!-- 🧰 Tools -->
@@ -54,20 +57,7 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 
-
-### 🧰 Tools & Frameworks
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/SFML-74C365?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-
----
 
 ## 📊 GitHub Stats
 
