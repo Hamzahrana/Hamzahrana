@@ -1,5 +1,9 @@
 # 👋 Muhammad Hamzah Habib
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQ1MGZyZ3NlMmxmOG1iMnVqYXduaDRkODR3b3I1YTB1ZDl0MHMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="300"/>
+</p>
+
 🎓 Software Engineering Student at FAST NUCES (Batch of 2027)  
 📧 hamzahhabib3838@gmail.com  
 🔗 [GitHub](https://github.com/Hamzahrana)
@@ -52,6 +56,8 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -69,4 +75,3 @@ My goal is to keep building cool projects, keep learning, and contribute to open
 - **🎬 CineFlix** – Movie browser with favorites/watch-later features using React & external APIs  
 
 ---
-
